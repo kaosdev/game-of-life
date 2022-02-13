@@ -1,0 +1,25 @@
+.create-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  height: 100%;
+}
+
+.create__error {
+  margin-bottom: 2rem;
+}
+
+.create__grid {
+  width: 256px;
+  margin-bottom: 2rem;
+}
+
+.create__input {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.create__input > label {
+  flex: 1;
+}

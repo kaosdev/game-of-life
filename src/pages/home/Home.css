@@ -1,0 +1,17 @@
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  height: 100%;
+}
+
+.create-btn {
+  width: 256px;
+  margin-bottom: 1rem;
+}
+
+.import-btn {
+  width: 256px;
+  margin-bottom: 1rem;
+}
